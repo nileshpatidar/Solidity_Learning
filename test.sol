@@ -13,8 +13,9 @@ contract constructorExample {
 	constructor() public {				
 		str = "GeeksForGeeks";	
 	}	
+
 	
-	// Defining function to
+	//// Defining function to
 	// return the value of 'str'
 	function getValue(
 	) public view returns (
